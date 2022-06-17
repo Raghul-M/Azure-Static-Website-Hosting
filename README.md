@@ -57,7 +57,7 @@ ___
 Go to your static web app **>>** Custom Domain
 
 
-<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/Custom%20Dm1.png" height="300" >
+<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/Custom%20Dm1.png"  >
 
 
 #### Refer this link to how to add a custom domain : [Watch here](https://www.youtube.com/watch?v=SpQgKfJ87fE&ab_channel=MicrosoftDeveloper)
