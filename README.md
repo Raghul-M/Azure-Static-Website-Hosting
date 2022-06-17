@@ -7,7 +7,7 @@ Read this post I clearly Explained : [Read here](https://urlis.net/jq048)
 
 ###  **Step 1**: Create a new Repository on GitHub and upload your Website Source code to it
 
-<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/repo.png" height="300" align="center">
+<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/repo.png" >
 
 ___
 
@@ -23,18 +23,18 @@ ___
 
 ➜ Go to Static Web app hit create
 
-<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/create.png" height="300"  >
+<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/create.png" >
 
 ➜ Choose the Subscription or leave it default then Create a new resource group and Enter a name for the webapp and Choose hosting plan as free , like this
 
 
-<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/create1.png"  height="300"  >
+<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/create1.png"  >
 
 
 ➜ Then in  Deployment details,Choose the source as Github and then authorize and link your github account , then choose the repository and branch what we create in      your github      
 
 
-<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/create2.png" height="300" >
+<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/create2.png"  >
 
 
 ➜ Then hit Review+ create >> Create.
@@ -43,12 +43,12 @@ ___
     and the default URL for your web app , like this
 
 
-<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/Dm%20details.png" height="300" >
+<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/Dm%20details.png"  >
 
 
 #### ➜ Output : (With Default Domain)
 
-<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/default%20domain.png" height="300" >
+<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/default%20domain.png"  >
 
 ___
 
@@ -87,7 +87,7 @@ ___
 #### ➜ Output : (With Custom Domain)
 
 
-<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/final.png" height="300" >
+<img src="https://github.com/Raghul-M/Azure-Static-Website-Hosting/blob/main/Images/Project%20Images/final.png"  >
 
 ___
 
